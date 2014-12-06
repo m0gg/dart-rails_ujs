@@ -1,2 +1,5 @@
 name: rails_ujs
-dependencies:
+version: 1.0.0
+author: Marcel Sackermann <marcel@m0gg.org>
+description: Provides ujs-methods for rails-applications running dart-rails.
+homepage: https://github.com/m0gg/dart-rails_ujs
